@@ -1,0 +1,8 @@
+Line count                   2
+Word count                  10
+Keyword count                3
+Keyword              frequency
+first                        1
+test                         2
+second                       1
+

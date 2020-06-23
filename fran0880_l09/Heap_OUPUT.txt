@@ -1,0 +1,78 @@
+Initialize a max heap:
+===================== 
+Heap Capacity = [20]
+Heap size     = [0]
+Max heap [Source] is EMPTY! 
+Max heap [Source] is NOT FULL! 
+
+Enter next Heap Value [-9999 to quit]: 88
+
+==> INPUT Values: [88 ]
+
+Contents of Heap Array: (Value at TOP of Heap = [88])
+====================== 
+[88 ]
+
+Heap Structure:
+============== 
+88  
+
+Enter next Heap Value [-9999 to quit]: 89
+
+==> INPUT Values: [88 89 ]
+
+Contents of Heap Array: (Value at TOP of Heap = [89])
+====================== 
+[89 88 ]
+
+Heap Structure:
+============== 
+89  
+88  
+
+Enter next Heap Value [-9999 to quit]: 5
+
+==> INPUT Values: [88 89 5 ]
+
+Contents of Heap Array: (Value at TOP of Heap = [89])
+====================== 
+[89 88 5 ]
+
+Heap Structure:
+============== 
+89  
+88  5  
+
+Enter next Heap Value [-9999 to quit]: 30
+
+
+==> INPUT Values: [88 89 5 30 ]
+
+Contents of Heap Array: (Value at TOP of Heap = [89])
+====================== 
+[89 88 5 30 ]
+
+Heap Structure:
+============== 
+89  
+88  5  
+30  
+
+Enter next Heap Value [-9999 to quit]: 
+
+==> INPUT Values: [88 89 5 30 65 77 21 89 13 45 64 4 10 99 78 ]
+
+Contents of Heap Array: (Value at TOP of Heap = [99])
+====================== 
+[99 89 89 88 65 10 78 30 13 45 64 4 5 21 77 ]
+
+Heap Structure:
+============== 
+99  
+89  89  
+88  65  10  78  
+30  13  45  64  4  5  21  77  
+
+Enter next Heap Value [-9999 to quit]: -9999
+
+::: Program Ended. Till next time.

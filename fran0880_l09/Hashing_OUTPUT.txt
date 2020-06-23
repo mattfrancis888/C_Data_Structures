@@ -1,0 +1,41 @@
+Enter:: 1) Insert 	 2) Display 	 3) Search 	 4) Exit: 
+1
+::: [1] ==> Insert:
+Enter an integer key/value to insert into Hash table: 
+111
+
+Slot  Collision?  Value Inserted
+====  ==========  ==============
+   1      no                 111
+
+Enter:: 1) Insert 	 2) Display 	 3) Search 	 4) Exit: 
+1
+::: [1] ==> Insert:
+Enter an integer key/value to insert into Hash table: 
+112
+
+Slot  Collision?  Value Inserted
+====  ==========  ==============
+   2      no                 112
+
+Enter:: 1) Insert 	 2) Display 	 3) Search 	 4) Exit: 
+2
+::: [2] ==> Display:
+
+Contents of Hash Table:
+====================== 
+Index/Slot   Key/Value 
+==========   ========= 
+         0       empty
+         1         111
+         2         112
+         3       empty
+         4       empty
+         5       empty
+         6       empty
+         7       empty
+         8       empty
+         9       empty
+
+
+Enter:: 1) Insert 	 2) Display 	 3) Search 	 4) Exit:
